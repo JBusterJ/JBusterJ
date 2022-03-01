@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[]("https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1")
+![]("https://render.githubusercontent.com/render/math?math=e^{i%20\pi}%20=%20-1")
