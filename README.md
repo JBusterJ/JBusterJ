@@ -14,7 +14,7 @@ Contributions, streaks:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=JBusterJ&theme=dark)  
 Most used languages in GitHub repositories:  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JBusterJ&layout=compact&theme=codeSTACKr)  
-SOME of my projects (other projects on my GitHub not featured below are probably works-in-progress and aren't completely polished. Other projects may not be on GitHub altogether)  
+SOME of my COMPLETE projects (other projects on my GitHub not featured below are probably works-in-progress and aren't completely polished. Other projects may not be on GitHub altogether)  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBusterJ&repo=watch-your-space&theme=codeSTACKr )  
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JBusterJ&repo=betelgeuse-supernova-animation&theme=codeSTACKr )
 
