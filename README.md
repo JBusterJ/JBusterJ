@@ -3,10 +3,11 @@
 ###### Just kidding, I'm not, unfortunately. But I do a lot of cool stuff. But usually I don't post it on GitHub, which kind of defeats the purpose of my GitHub account. 
 
 ### Who am I?
-I am JB! (real name not mentioned because I would not like for my name to be on a public about-me).
-My hobbies include Astronomy, Physics, Mathematics, and droning. You may find hints of these hobbies in some of my GitHub repositories! Most of my GitHub projects are programmed in JavaScript, although outside of GitHub I program in a variety of languages including C# and Python.
+<!-- I am JB! (real name not mentioned because I would not like for my name to be on a public about-me). -->
+I'm JBuster, a thirteen year old science nerd.
+My hobbies include Astronomy, Physics, Mathematics, and droning. You may find hints of these hobbies in some of my GitHub repositories. Most of my GitHub projects are programmed in JavaScript, although outside of GitHub I program in a variety of languages including C# and Python.
 
-Here are my GitHub stats. Keep in mind I mainly use GitHub to store demos of projects I was making (normally for fun) so don't expect contributions and stars earned to be high for now.
+Here are my GitHub stats. Keep in mind I mainly use GitHub to store demos of projects I was making (normally for fun) so don't expect contributions and stars earned statistics to be high (for now).
 
 GitHub stats:  
 ![](https://github-readme-stats.vercel.app/api?username=JBusterJ&show_icons=true&theme=codeSTACKr )  
